@@ -1,8 +1,12 @@
 # Learn C# with Unity
 
-Materials for Teaching Peter Payne C# with Unity
+Materials for Teaching Peter Payne Unity & C#
 
-## Video Series
+## Guided Walkthroughs
+
+* [Creating a Unity Project](/01-unity-project-setup.md)
+
+## Complementary Video Series
 
 * [C# Fundamentals](https://www.youtube.com/playlist?list=PLadYLGMfR6Lphpq1PZFo25_acWAEuoLh_)
 * [C# Intermediate](https://www.youtube.com/playlist?list=PLadYLGMfR6Lpvh3xX3a7LXbqJqY_WjIk7)
